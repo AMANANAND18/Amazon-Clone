@@ -1,6 +1,6 @@
 Amazon Clone<br>
-The Amazon Clone project serves as a testament to the power of HTML, CSS, and JavaScript in crafting intuitive and visually appealing web applications. By<br>
-replicating the essence of Amazon's user experience, this project provides developers and enthusiasts with a hands-on opportunity to delve into frontend <br> development, understanding the intricacies involved in building responsive, interactive, and user-centric web platforms.<br>
+The Amazon Clone project serves as a testament to the power of HTML, CSS, and JavaScript in crafting intuitive and visually appealing web applications. By
+replicating the essence of Amazon's user experience, this project provides developers and enthusiasts with a hands-on opportunity to delve into frontend development, understanding the intricacies involved in building responsive, interactive, and user-centric web platforms.
 
 🚀 About Me
 I'm a full stack developer...
